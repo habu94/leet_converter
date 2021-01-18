@@ -9,4 +9,15 @@
 Wikipedia  
 [https://ja.wikipedia.org/wiki/Leet](https://ja.wikipedia.org/wiki/Leet)
 
+## 動作環境
+
+- Ubuntu 20.04 WSL
 ## 実行方法
+以下のコードを順に実行します
+ ```bash
+  git clone https://github.com/habu94/robosys.git
+ ```
+ ディレクトリに入り
+  ```bash
+  cd robosys
+  ```
