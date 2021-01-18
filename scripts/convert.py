@@ -75,6 +75,7 @@ def main(reed_data):
     con_word = con_word.translate(str.maketrans(s_character)) #小文字
 
     print("小文字も変換 ⇒ " + con_word)
+    print("\n)
 
 rospy.init_node('convert')
 sub = rospy.Subscriber('reed_data', String, main)
