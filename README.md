@@ -6,6 +6,6 @@
 ## leet文字とは
 アルファベットを記号などで表した文字で、ゲームの名前が他の人と被って使えない場合などに用いられます  
 Wikipedia
-[!https://ja.wikipedia.org/wiki/Leet](https://ja.wikipedia.org/wiki/Leet)
+[https://ja.wikipedia.org/wiki/Leet](https://ja.wikipedia.org/wiki/Leet)
 
 ## 実行方法
