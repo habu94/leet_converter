@@ -21,5 +21,8 @@ Wikipedia
   ```
 以下のコードを実行
   ```bash
-  
+  git clone https://github.com/habu94/leet_converter.git
   ```
+ 
+ ## 実行方法
+ 端末を3つ立ち上げ、
