@@ -26,8 +26,12 @@ Wikipedia
   ```bash
   cd ~/catkin_ws
   catkin_make
-  
   ```
  
- ## 実行方法
- 端末を3つ立ち上げ、
+## 実行方法
+端末を3つ立ち上げ、1つ目でroscoreを実行
+  ```bash
+  roscore
+  ```
+2つ目の端末でサブスクライバ
+ 
