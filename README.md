@@ -33,5 +33,11 @@ Wikipedia
   ```bash
   roscore
   ```
-2つ目の端末でサブスクライバ
- 
+2つ目の端末でパブリッシャーを起動
+  ```bash
+  rosrun leet_converter reed.py
+  ```
+3つ目の端末でサブスクライバを起動
+  ```bash
+  rosrun leet_converter convert.py
+  ```
