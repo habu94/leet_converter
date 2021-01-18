@@ -15,13 +15,18 @@ Wikipedia
 - ROS(noetic)
 
 ## 実行準備
- ディレクトリに入り
+ディレクトリに入り
   ```bash
   cd catkin_ws/src
   ```
 以下のコードを実行
   ```bash
   git clone https://github.com/habu94/leet_converter.git
+  ```
+  ```bash
+  cd ~/catkin_ws
+  catkin_make
+  
   ```
  
  ## 実行方法
