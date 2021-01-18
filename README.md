@@ -10,14 +10,16 @@ Wikipedia
 [https://ja.wikipedia.org/wiki/Leet](https://ja.wikipedia.org/wiki/Leet)
 
 ## 動作環境
-
 - Ubuntu 20.04 WSL
-## 実行方法
-以下のコードを順に実行します
- ```bash
-  git clone https://github.com/habu94/robosys.git
- ```
+- Raspberry Pi4
+- ROS(noetic)
+
+## 実行準備
  ディレクトリに入り
   ```bash
-  cd robosys
+  cd catkin_ws/src
+  ```
+以下のコードを実行
+  ```bash
+  
   ```
