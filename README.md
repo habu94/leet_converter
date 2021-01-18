@@ -41,3 +41,7 @@ Wikipedia
   ```bash
   rosrun leet_converter convert.py
   ```
+パブリッシャー側でアルファベットを入力し、Enterキーを押すとサブスクライバ側で変換されたものが表示されます  
+変換できないものは元の文字がそのまま表示されます
+
+## 実行動画
